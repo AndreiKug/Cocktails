@@ -1,0 +1,7 @@
+.el-select__wrapper {
+    background-color: var(--background) !important;
+}
+
+.el-select__selected-item {
+    color: var(--text) !important;
+}
